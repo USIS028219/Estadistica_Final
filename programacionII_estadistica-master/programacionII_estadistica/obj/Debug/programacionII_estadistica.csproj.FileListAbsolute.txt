@@ -1,0 +1,12 @@
+C:\Users\laura Guerrero\Desktop\walberto tareas\programacionII_estadistica-master\programacionII_estadistica\bin\Debug\programacionII_estadistica.exe.config
+C:\Users\laura Guerrero\Desktop\walberto tareas\programacionII_estadistica-master\programacionII_estadistica\bin\Debug\programacionII_estadistica.exe
+C:\Users\laura Guerrero\Desktop\walberto tareas\programacionII_estadistica-master\programacionII_estadistica\bin\Debug\programacionII_estadistica.pdb
+C:\Users\laura Guerrero\Desktop\walberto tareas\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.csprojAssemblyReference.cache
+C:\Users\laura Guerrero\Desktop\walberto tareas\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.conversores.resources
+C:\Users\laura Guerrero\Desktop\walberto tareas\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.Form1.resources
+C:\Users\laura Guerrero\Desktop\walberto tareas\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.Principal.resources
+C:\Users\laura Guerrero\Desktop\walberto tareas\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.Properties.Resources.resources
+C:\Users\laura Guerrero\Desktop\walberto tareas\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.csproj.GenerateResource.cache
+C:\Users\laura Guerrero\Desktop\walberto tareas\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.csproj.CoreCompileInputs.cache
+C:\Users\laura Guerrero\Desktop\walberto tareas\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.exe
+C:\Users\laura Guerrero\Desktop\walberto tareas\programacionII_estadistica-master\programacionII_estadistica\obj\Debug\programacionII_estadistica.pdb
